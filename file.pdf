@@ -1,2 +1,1 @@
-Adrian Hromec
-https://github.com/Adrainko
+pdf.cell(200, 10, txt="Adrian Hromec", ln=True, align='C')
